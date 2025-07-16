@@ -11,11 +11,6 @@ const Projects = () => {
       technologies: ["Python", "Flask", "HTML/CSS", "JavaScript"]
     },
     {
-      title: "Health Chatbot",
-      description: "An interactive chatbot built with Python and Streamlit to predict possible health issues based on user-entered symptoms.",
-      technologies: ["Python", "Streamlit", "Machine Learning", "Healthcare"]
-    },
-    {
       title: "Your Memories",
       description: "Memory Journal Web App — A simple Flask-based web application where users can sign up, log in, and store personal memories. Data is stored in local JSON files with a clean interface using HTML and CSS. Ideal for beginners exploring full-stack Python development.",
       link: "https://github.com/Manipamarthi10/memory_web_app",
