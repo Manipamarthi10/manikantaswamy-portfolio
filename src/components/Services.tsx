@@ -2,11 +2,6 @@
 const Services = () => {
   const services = [
     {
-      title: "Health Chatbot",
-      description: "Interactive chatbot solution for health symptom analysis and predictions",
-      status: "Live Solution"
-    },
-    {
       title: "Custom Portfolio Sites",
       description: "Professional portfolio websites tailored for students and professionals",
       status: "Available"
