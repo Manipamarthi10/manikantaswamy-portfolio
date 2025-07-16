@@ -35,7 +35,7 @@ const Header = () => {
           </div>
           
           <div className="hidden md:flex items-center space-x-8">
-            {["Home", "About", "Skills", "Projects", "Services", "Contact"].map(
+            {["Home", "About", "Skills", "Projects", "Contact"].map(
               (item) => (
                 <button
                   key={item}
