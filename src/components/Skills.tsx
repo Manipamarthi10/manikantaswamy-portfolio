@@ -7,7 +7,7 @@ const Skills = () => {
     },
     {
       title: "Tools & Frameworks",
-      skills: ["Python libraries", "HTML/CSS/JS", "Flask", "Streamlit"]
+      skills: ["Python libraries", "HTML/CSS/JS", "Flask", "Streamlit", "Git", "GitHub"]
     },
     {
       title: "Soft Skills",
