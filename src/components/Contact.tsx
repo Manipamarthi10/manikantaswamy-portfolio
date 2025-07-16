@@ -63,7 +63,7 @@ const Contact = () => {
 
             <div className="flex space-x-4 mt-8">
               <a
-                href="https://linkedin.com/in/your-profile"
+                href="https://www.linkedin.com/in/manikantaswamyp"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center space-x-2 px-4 py-2 bg-primary text-white rounded-lg hover:bg-blue-700 transition-colors duration-200"
